@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.match-card-list {
+  background-color: #1e293b;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 18px;
+  padding-right: 18px;
+  width: 20vw;
+  text-align: center;
+}
+.competing-team {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+}
+.result {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+}
+.match-status-lost {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 25px;
+  color: #d91c1f;
+}
+.match-status-won {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 25px;
+  color: #18ed66;
+}
+.team-logo {
+  height: 18vh;
+}

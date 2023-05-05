@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: radial-gradient(#d91c1f, #a4261d, #5755a7);
+  height: 100%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.team-banner {
+  height: 50vh;
+  border-radius: 8px;
+}
+.latest-match-heading {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+}
+.latest-match-container {
+}
+.recent-matches-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

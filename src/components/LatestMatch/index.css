@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.latest-match-card {
+  background-color: #1e293b;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.competing-Team-Logo {
+  height: 32vh;
+  margin-left: 60px;
+  margin-right: 80px;
+}
+.competing-team {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 38px;
+  color: #ffffff;
+}
+.date {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 28px;
+  color: #ffffff;
+}
+.venue {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 15px;
+  color: #ffffff;
+}
+.first-inning {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.man-of-the-match {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 15px;
+  color: #ffffff;
+}
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
